@@ -44,8 +44,7 @@ array([4.71954707, 3.49434357, 1.84977447, 1.59793926, 1.26458958,
        81,
        0.37397659, 0.34723147, 0.33014007, 0.29059614])
        _choosing components until  where eigen value get close to the 1_
-       
-       ![image](https://user-images.githubusercontent.com/87512268/135230713-46c4fc8f-8b33-429b-971a-731425993a56.png)
+
        
 
        
