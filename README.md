@@ -31,7 +31,7 @@ Category 24	5455.0	1.560755	1.171756	0.00	1.290	3.072	5.0000	5.0000	5.0000	5.00
 
 
 ### investigating the null values 
-treating null values by filling medain 
+treating null values by filling median
 
 # STANDARDIASE THE DATA
 it consist changing values of dataset in standard form that mean between 0 and 1
