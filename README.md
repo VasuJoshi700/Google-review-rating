@@ -3,7 +3,7 @@ In this project i had been provided the data that contain category of google rev
 # investigating the outliers 
 while checking outliers i found out that there are no such outliers
 
-### investigating the null values 
+# investigating the null values 
 treating null values by filling median
 
 # STANDARDIASE THE DATA
