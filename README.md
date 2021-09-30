@@ -1,5 +1,12 @@
 # Google-review-rating
 In this project i had been provided the data that contain category of google reviews  by different user . I used K-means clustering to cluster the reviews that will help marketing team to target right audience 
+
+# loading the dataset
+loading the data that is in csv format 
+
+# **taking the look at the summary of data**
+>> checking the datatypes and no.of columns and rows  
+
 # investigating the outliers 
 while checking outliers i found out that there are no such outliers
 
