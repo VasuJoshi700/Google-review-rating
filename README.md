@@ -31,7 +31,8 @@ array([4.71954707, 3.49434357, 1.84977447, 1.59793926, 1.26458958,
 ### Running clusters into for loop between in range of 1,8 to get a fine cluster point
 
 
-![graph](https://user-images.githubusercontent.com/87512268/135412639-b60f1e4e-41d6-4890-81a0-144c569e6906.png)
+![graph](https://user-images.githubusercontent.com/87512268/135421528-b3aba5aa-10c6-4b03-ab06-82d9741e3361.png)
+
 
 after running the loop i have choosen the cluster on the basis of cuts in the graphs 
 
