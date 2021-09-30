@@ -42,7 +42,7 @@ i ran the model on different clusters i.e 4,5,6
 
 ### Visulization of groups at different clusters
 
-I visualise the group in different categories and determined the most precise cluster 
+I visualised the group at different cluster and determined the most precise cluster 
 
 
 
