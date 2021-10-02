@@ -28,7 +28,7 @@ array([4.71954707, 3.49434357, 1.84977447, 1.59793926, 1.26458958,
        
 
 
-### Running clusters into for loop between in range of 1,8 to get a fine cluster point
+### Running clusters into loop between in range of 1,8 to get a fine cluster point
  (i decided this range on the basis of principal components)
 
 
@@ -41,7 +41,7 @@ after running the loop i have choosen the cluster on the basis of cuts in the gr
 ## Run model on different cluster 
 i ran the model on different clusters i.e 4,5,6
 
-### Visulization of groups at different clusters
+### Visulization of groups at different 4 cluster
 
 I visualised the group at different cluster and determined the most precise cluster 
 
