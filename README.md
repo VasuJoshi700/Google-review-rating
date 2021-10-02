@@ -29,6 +29,7 @@ array([4.71954707, 3.49434357, 1.84977447, 1.59793926, 1.26458958,
 
 
 ### Running clusters into for loop between in range of 1,8 to get a fine cluster point
+ (i decided this range on the basis of principal components)
 
 
 ![graph](https://user-images.githubusercontent.com/87512268/135421528-b3aba5aa-10c6-4b03-ab06-82d9741e3361.png)
