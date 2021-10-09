@@ -14,7 +14,7 @@ while checking outliers i found out that there are no such outliers
 treating null values by filling median
 
 # Standardise the data 
-it consist changing values of dataset in standard form that mean between 0 and 1
+it consist changing values of dataset in standard form which include mean =0 and variance = 1
 
 ## Applying PCA (Principal Component Analysis)
 array([4.71954707, 3.49434357, 1.84977447, 1.59793926, 1.26458958,
